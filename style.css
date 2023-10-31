@@ -1,0 +1,19 @@
+.main-form{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 50%;
+    margin: 50px auto;
+}
+.password-input {
+    padding: 15px;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.btn {
+    padding: 15px;
+    border-radius: 15px;
+    background-color: darkgreen;
+    color: #fff;
+}
